@@ -4,7 +4,7 @@
 
 ## List of Experiments
 
-1. Write a Program in PySpark to perform following:
+1. Write a Program in PySpark to perform following: 
    - Take key, value pairs and store it in Map and Do manipulations on Map.
 
 2. Write PySpark Application that Demonstrates Use of Packages, Imports, and Collections.
