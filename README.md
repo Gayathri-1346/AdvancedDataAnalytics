@@ -1,164 +1,49 @@
-# Advanced Data Analytics Lab
+# ADVANCED DATA ANALYTICS LAB
 
-This repository contains the programs and experiments performed as part of the **Advanced Data Analytics Lab**.
+**Course Code:** 22AD432
 
-## Course Information
+## List of Experiments
 
-- **Course Code:** 22AD432
-- **Course Name:** Advanced Data Analytics Lab
-- **Credits:** 1
-- **Technologies:** Python, PySpark, Spark SQL, Spark Streaming, MLlib
+1. Write a Program in PySpark to perform following:
+   - Take key, value pairs and store it in Map and Do manipulations on Map.
 
----
+2. Write PySpark Application that Demonstrates Use of Packages, Imports, and Collections.
 
-## Experiments
+3. Write PySpark Application that uses Concurrency features.
 
-### 1. Key-Value Pairs and Map Manipulation
+4. Write a PySpark program to perform the following:
+   - a. Create Data Frame
+   - b. Load Data to Spark Data Frame
+   - c. Perform Data Manipulation Operations
 
-Write a PySpark program to:
+5. Write PySpark program to perform the following:
+   - a. Load data to Spark Data Frame
+   - b. Count the missing values throughout all the columns of Data Frame
+   - c. Replace/Remove the missing values
+   - d. Join two Spark Data Frames I.e. Inner Join, Semi-join, Outer-Join.
 
-- Create key-value pairs
-- Store them in a Map
-- Perform various manipulations and operations on the Map
+6. Write PySpark SQL to Perform following operations:
+   - a. Count the NULL values through-out the columns of Data Frame.
+   - b. Remove the Duplicate records
+   - c. Get the top 3 records based on any column
+   - d. Perform group by operations
 
----
+7. Write PySpark SQL to perform following operations:
+   - a. Inner-Join
+   - b. Outer-join
+   - c. Semi-joins(Left, Right)
+   - d. Cross-Join
 
-### 2. Packages, Imports, and Collections
+8. Develop a Complete Spark Streaming Application in PySpark.
 
-Write a PySpark application demonstrating the use of:
+9. Write a Python Program to Implement Linear Regression on Spark Data Frames.
 
-- Packages
-- Imports
-- Python Collections
+10. Write a Python Program to Implement Decision Tree Classification algorithm on Spark Data Frame.
 
----
+11. Write a Python Program to Implement Principle Component Analysis(PCA) on Spark Data Frame.
 
-### 3. Concurrency in PySpark
+12. Write a Python Program to Implement Random Forest Classification Algorithm on Spark Data Frame.
 
-Write a PySpark application that demonstrates the use of **concurrency features**.
+13. Write a Python Program to Implement Naive Bayes Classification Algorithm on Spark Data Frame.
 
----
-
-### 4. Spark DataFrame Creation and Manipulation
-
-Write a PySpark program to perform the following operations:
-
-- Create a DataFrame
-- Load data into a Spark DataFrame
-- Perform data manipulation operations
-
----
-
-### 5. Missing Values and DataFrame Joins
-
-Write a PySpark program to perform the following:
-
-- Load data into a Spark DataFrame
-- Count missing values across all columns
-- Replace or remove missing values
-- Join two Spark DataFrames using:
-  - Inner Join
-  - Semi Join
-  - Outer Join
-
----
-
-### 6. Spark SQL Operations
-
-Write a PySpark SQL program to perform the following operations:
-
-- Count `NULL` values throughout the columns of a DataFrame
-- Remove duplicate records
-- Retrieve the top 3 records based on any column
-- Perform `GROUP BY` operations
-
----
-
-### 7. Spark SQL Joins
-
-Write a PySpark SQL program to perform the following join operations:
-
-- Inner Join
-- Outer Join
-- Left Semi Join
-- Right Semi Join
-- Cross Join
-
----
-
-### 8. Spark Streaming Application
-
-Develop a **complete Spark Streaming application** using PySpark.
-
----
-
-### 9. Linear Regression
-
-Write a Python program to implement the **Linear Regression** algorithm on Spark DataFrames.
-
----
-
-### 10. Decision Tree Classification
-
-Write a Python program to implement the **Decision Tree Classification** algorithm on Spark DataFrames.
-
----
-
-### 11. Principal Component Analysis (PCA)
-
-Write a Python program to implement **Principal Component Analysis (PCA)** on Spark DataFrames.
-
----
-
-### 12. Random Forest Classification
-
-Write a Python program to implement the **Random Forest Classification** algorithm on Spark DataFrames.
-
----
-
-### 13. Naive Bayes Classification
-
-Write a Python program to implement the **Naive Bayes Classification** algorithm on Spark DataFrames.
-
----
-
-### 14. K-Means Clustering
-
-Write a Python program to implement the **K-Means Clustering** algorithm on Spark DataFrames.
-
----
-
-## Technologies Used
-
-| Technology | Purpose |
-|---|---|
-| Python | Programming Language |
-| PySpark | Big Data Processing |
-| Apache Spark | Distributed Computing |
-| Spark SQL | SQL-based Data Processing |
-| Spark Streaming | Real-Time Data Processing |
-| Spark MLlib | Machine Learning |
-
----
-
-## Topics Covered
-
-- PySpark Basics
-- Key-Value Pairs
-- Collections
-- Concurrency
-- Spark DataFrames
-- Data Manipulation
-- Missing Value Handling
-- Data Cleaning
-- Spark SQL
-- SQL Joins
-- Spark Streaming
-- Linear Regression
-- Decision Tree Classification
-- Principal Component Analysis
-- Random Forest Classification
-- Naive Bayes Classification
-- K-Means Clustering
-
-
+14. Write a Python Program to Implement K-means Clustering Algorithm on Spark Data Frame.
