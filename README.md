@@ -1,7 +1,5 @@
 # ADVANCED DATA ANALYTICS LAB
 
-**Course Code:** 22AD432
-
 ## List of Experiments
 
 1. Write a Program in PySpark to perform following: 
